@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oskaras Vištorskis</h1>
 
-- 🔭 I’m currently working on [Suscraft](https://github.com/Soskar1/Suscraft)
+- 🔭 I’m currently working on [Hero's Journey: Mythic Odyssey](https://github.com/Soskar1/Hero-s-Journey-Mythic-Odyssey)
 - 🌱 I’m currently learning **C++, DSA**
 
 
