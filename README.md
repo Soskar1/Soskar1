@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oskaras Vištorskis</h1>
 
-- 🔭 I’m currently working on [Hero's Journey: Mythic Odyssey](https://github.com/Soskar1/Hero-s-Journey-Mythic-Odyssey)
+- 🔭 I’m currently working on [OpenGL](https://github.com/Soskar1/OpenGL)
 - 🌱 I’m currently learning **Java, Assembly, OpenGL**
 
 
