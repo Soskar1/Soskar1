@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskaras Vištorskis</h1>
 
 - 🔭 I’m currently working on [bebone](https://github.com/Maksasj/bebone)
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **OpenGL**, **Game Engine Architecture**
 
 
 # 💻 Tech Stack:
