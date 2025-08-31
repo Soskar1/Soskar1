@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskaras Vištorskis</h1>
 
-- 🔭 I’m currently working on [bebone](https://github.com/Maksasj/bebone)
-- 🌱 I’m currently learning **OpenGL**, **Game Engine Architecture**
+- 🔭 I’m currently working on [Magma Heart](https://github.com/Soskar1/Magma-Heart)
+- 🌱 I’m currently learning **WPF**, **ASP.NET Core**
 
 
 # 💻 Tech Stack:
