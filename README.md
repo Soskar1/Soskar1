@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskaras Vištorskis</h1>
 
-- 🔭 I’m currently working on [Magma Heart](https://github.com/Soskar1/Magma-Heart)
-- 🌱 I’m currently learning **WPF**, **ASP.NET Core**
+- 🔭 I’m currently working on [kaizen](https://github.com/Soskar1/kaizen)
+- 🌱 I’m currently learning **Rust**, **Computer Networking**
 
 
 # 💻 Tech Stack:
